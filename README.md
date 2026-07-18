@@ -9,5 +9,5 @@ Python backend developer.
 - **Data:** PostgreSQL, Redis, Qdrant, Alembic
 - **Messaging:** RabbitMQ, Celery, MQTT, APScheduler
 - **AI / LLM:** Google Gemini, OpenAI, pgvector, embeddings
-- **Infra:** Docker, GitHub Actions, nginx, uv
+- **Infra:** Docker, GitHub Actions, nginx, uv, S3
 - **Tooling:** ruff, pyright, pytest
